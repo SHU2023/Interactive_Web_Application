@@ -1,0 +1,15 @@
+<div id="page">
+      <h1 id="header">Holiday Destinations</h1>
+      <h2>SOME of My Favourite Holiday Destinations. In no particular order<span id="counter"></span></h2>
+	  <p> Wish you were here!! <br />Ok. These are SOME of MY favourite holiday destinations.Replace them with your own favourite destinations. </p>
+        <ul>
+        <li id="one" >Montego Bay, Jamaica</li>
+        <li id="two">Cape Town, South Africa</li>
+        <li id="seven">Pickering, England</li>
+      </ul>
+      <div id="newItemButton"><button href="#" id="showForm">new item</button></div>
+      <form id="newItemForm">
+        <input type="text" id="itemDescription" placeholder="Add description..." />
+        <input type="submit" id="addButton" value="add" />
+      </form>
+    </div>
